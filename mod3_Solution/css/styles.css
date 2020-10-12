@@ -63,6 +63,7 @@ body {
 #chicken, #beef, #sushi{
   position: relative;
   margin-bottom: 35px;
+  background-color: grey;
 } 
 
 .row {
